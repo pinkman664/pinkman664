@@ -2,7 +2,7 @@
 <h3 align="center">3rd year student at BSTU</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=20&pause=1000&color=00FF9D&center=true&vCenter=true&width=550&lines=%3C%2F%3E+Frontend+Developer+%3C%2F%3E;Artem+Harmel+%7C+BSTU+%7C+3rd+year;HTML+%2B+CSS+%2B+JS+%3D+%E2%9D%A4%EF%B8%8F;Building+the+web%2C+one+commit+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Artem!;Code.+Create.+Inspire.;3rd+year+%40+BSTU;Let's+build+something+great!" alt="Typing SVG" />
 </p>
 
 <p align="center">
