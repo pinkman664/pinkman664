@@ -1,9 +1,6 @@
 <h1 align="center">Hi there, I'm Artem Harmel 👋</h1>
 <h3 align="center">3rd year student at BSTU</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" />
-</p>
 
 <p align="center">
   <a href="https://t.me/rokpes">
