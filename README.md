@@ -2,7 +2,7 @@
 <h3 align="center">3rd year student at BSTU</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Artem!;Code.+Create.+Inspire.;3rd+year+%40+BSTU;Let's+build+something+great!" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
 <p align="center">
