@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Artem Harmel 👋</h1>
-<h3 align="center">3rd year student at BSTU</h3>
+<h3 align="center">4rd year student at BSTU</h3>
 
 
 <p align="center">
